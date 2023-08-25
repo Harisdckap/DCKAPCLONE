@@ -467,8 +467,9 @@ img {
 .column:hover>.img-container{
   color: rgb(255, 255, 255);
 }
-.img-container{
-  width: 84%;
+img.img-container {
+  width: 80%;
+  height: 70%;
 }
 .img-description{
   
@@ -700,8 +701,8 @@ display: flex;
     margin-top: 90px;
 }
 img.hari {
-  width: 50%;
-  height: 50%;
+  width: 428px;
+  height: 430px;
 }
 img.madhan {
   height: 100px;
@@ -725,8 +726,8 @@ li.list {
   font-size: x-large;
   width: 50%;
   height: 50%;
-  margin-left: 50%;
-  margin-top: -37%;
+  margin-left: 45%;
+  margin-top: -14%;
   list-style-type: none;
   font-family: 'Montserrat';
   color: #5c5c5c;
